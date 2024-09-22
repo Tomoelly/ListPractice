@@ -14,6 +14,9 @@
             animals.Add("Tiger");
             animals.Add("Lion");
 
+            // 1+2. 更簡潔的產生List法:
+            List<string> animals2 = new List<string>() { "Dog", "Cat", "Elephant", "Tiger", "Lion" };
+
             // 3. 使用迴圈列印 List 中的所有動物名字
             // 提示：使用 foreach 迴圈
             Console.WriteLine("List 中的所有動物名字");
