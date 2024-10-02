@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberListPractice", "Numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalListManager", "AnimalListManager\AnimalListManager.csproj", "{069C613F-0965-4CBD-9997-FEB4AB4E1BD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergerListManager", "IntergerListManager\IntergerListManager.csproj", "{D2A2C113-E531-42E6-B879-AB60546F069F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{069C613F-0965-4CBD-9997-FEB4AB4E1BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{069C613F-0965-4CBD-9997-FEB4AB4E1BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{069C613F-0965-4CBD-9997-FEB4AB4E1BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A2C113-E531-42E6-B879-AB60546F069F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A2C113-E531-42E6-B879-AB60546F069F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A2C113-E531-42E6-B879-AB60546F069F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A2C113-E531-42E6-B879-AB60546F069F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
